@@ -1,10 +1,11 @@
 # Screen Recorder
-Este proyecto es un grabador de pantalla simple construido con HTML, CSS y JavaScript. Permite capturar la pantalla del usuario y reproducir la grabación en un elemento de video en la misma página. Además brinda la opcion de descargar el video.
+Este proyecto es un grabador de pantalla simple construido con HTML, CSS y JavaScript. Permite capturar la pantalla de la PC del usuario y reproducir la grabación en un elemento de video en la misma página. Además brinda la opcion de descargar el video.
 
 ## Características
 - Grabación de video de la pantalla.
 - Captura de audio del micrófono.
 - Reproducción y descarga opcional de la grabación en la misma página.
+- Solo apto para ordenadores.
 
 ## Tecnologías Utilizadas
 - HTML
